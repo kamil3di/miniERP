@@ -1,0 +1,17 @@
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\bin\Debug\RozaTEX_Otomasyon_2.exe.config
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\bin\Debug\RozaTEX_Otomasyon_2.exe
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\bin\Debug\RozaTEX_Otomasyon_2.pdb
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.csproj.AssemblyReference.cache
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.Form1.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.FrmLOT.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.Properties.Resources.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.csproj.GenerateResource.cache
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.csproj.CoreCompileInputs.cache
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.exe
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.pdb
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.FrmSiparis.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.FrmTuketim.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.FrmUretim.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.FrmUretimFormu.resources
+C:\Users\PROF\source\repos\RozaTEX_Otomasyon_2\RozaTEX_Otomasyon_2\obj\Debug\RozaTEX_Otomasyon_2.FrmLAB.resources
